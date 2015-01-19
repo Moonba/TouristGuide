@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Medina Tunis</string>
+    <string name="action_settings">Settings</string>
+    <string name="quit">Want more ?</string>
+    <string name="really_quit">360°/180° virtual visits are available online on medinatunis.com !</string>
+    <string name="yes">Let\'s take a look !</string>
+    <string name="no">No thanx , maybe later</string>
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/tvtalk1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Have Fun Talking Tunisian ! "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#01F6D5" />
+
+    <Button
+        android:id="@+id/talk1"
+        android:background="@drawable/mybutton"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:fadingEdge="horizontal"
+        android:text="عسلامة Hello"
+        android:textColor="#01D1A7" />
+
+    <Button
+        android:id="@+id/talk2"
+        android:background="@drawable/mybutton"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_gravity="center"
+        android:fadingEdge="horizontal"
+        android:text="شنحوالك How are you"
+        android:textColor="#01D1A7" />
+
+    <Button
+        android:id="@+id/talk4"
+        android:background="@drawable/mybutton"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_gravity="center"
+        android:fadingEdge="horizontal"
+        android:text="لباس Fine"
+        android:textColor="#01D1A7" />
+
+    <Button
+        android:id="@+id/talk5"
+        android:background="@drawable/mybutton"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_gravity="center"
+        android:fadingEdge="horizontal"
+        android:text="عيشك Thanx"
+        android:textColor="#01D1A7" />
+
+    <Button
+        android:id="@+id/talk3"
+        android:layout_width="match_parent"
+        android:background="@drawable/mybutton"
+        android:layout_height="34dp"
+         android:layout_gravity="center"
+        android:fadingEdge="horizontal"
+        android:text="بقداش How much"
+        android:textColor="#01D1A7" />
+
+</LinearLayout>
